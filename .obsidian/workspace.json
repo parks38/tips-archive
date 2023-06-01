@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "14663b17aa24754c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1c6ac4d4dce1a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66c980543bd4e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System_Design/1장 사용자 수에 따른 규모확장성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06a4ff2715e0efc6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fa6e2a4189743ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "677e920a2221a807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2e8e60ebdf9e24f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc1fde6879abafd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4179528905831fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a26c045af10eb493",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d37f8d9db1827ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf93f689fd3d571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007038b188b6799a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System_Design/1장 사용자 수에 따른 규모확장성.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46c4c007fc5c3f11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System_Design/1장 사용자 수에 따른 규모확장성.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e126c107cb438f0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95fd6f113f1f6302",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System_Design/1장 사용자 수에 따른 규모확장성.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06a4ff2715e0efc6",
+  "lastOpenFiles": [
+    "img/ㅣ7.png",
+    "img/ㅣ4.png",
+    "img/sticky-session.png",
+    "img/session-clustering.png",
+    "img/session-storage.png",
+    "img/_2021-01-07__10.34.07.png",
+    "img",
+    "algorithm/recursion/소수_찾기_2.java",
+    "algorithm/recursion/불량_사용자.java",
+    "System_Design/무상태_웹_계층.md"
+  ]
+}
