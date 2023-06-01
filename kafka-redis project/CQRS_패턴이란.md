@@ -51,4 +51,11 @@
 
 
 * [CQRS 패턴](https://recordsoflife.tistory.com/661)
-* [배달의 민족 CQRS](https://jaimemin.tistory.com/2203)
+* [배달의 민족 CQRS](https://jaimemin.tistory.com/2203) 
+* [CQRS 패턴 예시](https://github.com/AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice/tree/master/src/main/java/com/eventsourcing/bankAccount)
+
+* [CQRS-메세징 큐](https://velog.io/@dasd412/%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A9%94%EC%8B%9C%EC%A7%95-%EC%B6%94%EA%B0%80-%EB%B0%8F-CQRS-%ED%8C%A8%ED%84%B4-%EB%8F%84%EC%9E%85)
+
+- https://github.com/Kwoojong/Instagram-Spring
+- https://github.com/SeungHyeon12/numble_coupon
+- https://mrwersa.medium.com/cqrs-pattern-with-kafka-streams-part-1-112f381e9b98  
