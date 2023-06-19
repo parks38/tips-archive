@@ -53,3 +53,15 @@
 - [정수 삼각형 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/43105) </br>
 - [등굣길 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42898) </br>
 - [사칙연산 - Level 4](https://school.programmers.co.kr/learn/courses/30/lessons/1843) </br>
+
+#### ✅ 6주차: 2023.06.22 (자주 등장하는 자료 구조)
+- [올바른 괄호 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- [괄호 회전하기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+- [주식 가격 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [기능 개발 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+
+#### ✅ 7주차: 2023.06.29 (자주 등장하는 자료 구조)
+- [다리를 지나는 트럭 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- [순위 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
+- [길 찾기 게임 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
+- [이중 우선순위 큐 - Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628)
