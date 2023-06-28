@@ -53,8 +53,6 @@ public class 순위 {
             int loser = results[i][1];
             floyd[winner][loser] = 1;
             floyd[loser][winner] = -1;
-
-            System.out.println(Arrays.toString(floyd[i]));
         }
 
         // 중간 지점 확인하기
@@ -77,9 +75,10 @@ public class 순위 {
 
         // 결과를 알 수 있는 선수에 대한 탐색
         for (int i = 1; i <= n; i++) {
+            System.out.println(Arrays.toString(floyd[i]));
             int cnt = 0;
             for (int j = 1; j <= n; j++) {
-                if (floyd[i][j] != 0) cnt ++;
+                if (floyd[i][j] != 0 && floyd[i][j] != maxValue) cnt ++;
             }
             //순회 하면서 각 행에서 0이 아닌 값이 n-1개일 때 answer를 증가
             // n명의 선수가 있을 때, 각 선수는 n-1번의 승패를 알 수 있어야 순위를 확정 지을 수 있다
