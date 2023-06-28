@@ -69,6 +69,8 @@ public class 순위 {
                         floyd[i][j] = -1;
                         floyd[j][i] = 1;
                     }
+
+                    //floyd[i][j] = Math.min(floyd[i][j], floyd[i][k] + floyd[k][j]);
                 }
             }
         }
