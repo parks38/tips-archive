@@ -1,0 +1,40 @@
+## OS Questions 
+
+- 프로세스와 스레드의 차이(Process vs Thread)
+- 멀티 프로세스 대신 멀티 스레드를 사용하는 이유
+    - 멀티스레드 장점과 단점
+    - 멀티 스레드 환경에서의 주의사항을 설명해주세요.
+- Thread-safe
+- 동기와 비동기의 차이
+- 동기화 객체의 종류
+- 뮤텍스와 세마포어의 차이
+- 프로세스 동기화
+    - Critical Section/해결책
+- 교착상태(데드락, Deadlock)의 개념과 조건
+- 사용자 수준 스레드와 커널 수준 스레드
+- 외부 단편화와 내부 단편화
+- Context Switching
+- Swapping
+- 스케줄러의 종류
+    - 장기 스케줄러
+    - 단기 스케줄러
+    - 중기 스케줄러
+- CPU 스케줄러
+    - FCFS
+    - SJF
+    - SRT
+    - Priority scheduling
+    - RR
+- 메모리 관리 전략
+    - 메모리 관리 배경
+    - Paging
+    - Segmentation
+- 가상 메모리
+    - 배경
+    - 가상 메모리가 하는 일
+    - Demand Paging (요구 페이징)
+    - 페이지 교체 알고리즘
+- 캐시의 지역성
+    - Locality
+    - Caching line
+- 사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.
