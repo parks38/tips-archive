@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TIL/work_til/SQL_ BETWEEN 부등호 연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TIL/work_til/SQL_ BETWEEN 부등호 연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TIL/work_til/SQL_ BETWEEN 부등호 연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TIL/work_til/SQL_ BETWEEN 부등호 연산자.md"
               }
             }
           },
@@ -171,8 +171,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdfcc5f5090651e6",
+  "active": "e66c980543bd4e52",
   "lastOpenFiles": [
+    "TIL/PROGRAMMING_README.md",
+    "TIL/work_til/SQL_ BETWEEN 부등호 연산자.md",
+    "TIL/work_til",
+    "TIL/Network/(Apache, Nginx)_동작위치.md",
+    "TIL/Network/OSI_7계층.md",
+    "TIL/README.md",
+    "TIL/daily/template.md",
+    "TIL/daily/07-10~7-16.md",
+    "TIL/OS_README.md",
+    "TIL/NETWORK_README.md",
+    "TIL/DATABASE_README.md",
+    "README.md",
     "System_Design/1장 사용자 수에 따른 규모확장성.md",
     "img/ㅣ7.png",
     "img/ㅣ4.png",
